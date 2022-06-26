@@ -15,7 +15,7 @@ function factorial(n) {
     }
 }
 
-console.log(facotrial(0));
+console.log(facotrial(0)); // = 1 
 console.log(factorial(1)); // = 1
 console.log(factorial(2)); // = 2
 console.log(factorial(3)); // = 6
